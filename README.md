@@ -1,5 +1,6 @@
 # OpenGL_Library
 A game engine written to explore game design concepts as: 
+
 =>Frame counter, 
 =>FPS limiter, 
 =>point-area collision,
