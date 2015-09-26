@@ -1,0 +1,23 @@
+﻿  Camera2D.cpp
+  FatalErrors.cpp
+  GLSLProgram.cpp
+  ImageLoader.cpp
+  InputManager.cpp
+  IOManager.cpp
+  MyEngine.cpp
+  picoPNG.cpp
+  RandomNumberGenerator.cpp
+RandomNumberGenerator.cpp(15): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned long', possible loss of data
+  ResourceManager.cpp
+  Sprite.cpp
+  SpriteBatch.cpp
+SpriteBatch.cpp(31): warning C4018: '<' : signed/unsigned mismatch
+SpriteBatch.cpp(115): warning C4018: '<' : signed/unsigned mismatch
+SpriteBatch.cpp(142): warning C4018: '<' : signed/unsigned mismatch
+  TextureCache.cpp
+  Timing.cpp
+Timing.cpp(59): warning C4244: 'initializing' : conversion from 'Uint32' to 'float', possible loss of data
+  Window.cpp
+opengl32.lib(OPENGL32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+glew32.lib(glew32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+  MyEngine.vcxproj -> C:\Users\Rui\Documents\C++\Magia\Release\MyEngine.lib

@@ -1,0 +1,10 @@
+﻿  SpriteFont.cpp
+c:\users\rui\documents\c++\engine\myengine\spritefont.cpp(38): warning C4316: 'glm::tvec4<int,0>' : object allocated on the heap may not be aligned 16
+c:\users\rui\documents\c++\engine\myengine\spritefont.cpp(98): warning C4018: '<' : signed/unsigned mismatch
+c:\users\rui\documents\c++\engine\myengine\spritefont.cpp(108): warning C4244: '*=' : conversion from 'float' to 'unsigned char', possible loss of data
+c:\users\rui\documents\c++\engine\myengine\spritefont.cpp(143): warning C4316: 'MyEngine::CharGlyph' : object allocated on the heap may not be aligned 16
+opengl32.lib(OPENGL32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+opengl32.lib(OPENGL32.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+glew32.lib(glew32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+glew32.lib(glew32.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  MyEngine.vcxproj -> C:\Users\Rui\Documents\C++\Magia\Debug\MyEngine.lib
